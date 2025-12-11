@@ -1,4 +1,4 @@
-# 🪟 Smart Blinds Controller with Micro:bit
+#  Smart Blinds Controller with Micro:bit
 Automated blinds system controlled by light levels and user‑selected modes.
 
 ![Microbit](https://img.shields.io/badge/Micro%3Abit-v1%2Fv2-blue)
@@ -6,7 +6,7 @@ Automated blinds system controlled by light levels and user‑selected modes.
 
 ---
 
-## 📌 Overview
+##  Overview
 **Smart Blinds Controller** is a Micro:bit‑based automation project that adjusts window blinds depending on ambient light and the selected operating mode.
 
 The user can switch between two modes using the Micro:bit buttons:
@@ -18,7 +18,7 @@ The system uses a light sensor and a servo motor to open or close the blinds aut
 
 ---
 
-## ✨ Features
+##  Features
 - Two operating modes: **OUT** and **IN**
 - Automatic light measurement (0–255)
 - Servo‑based blind movement (open/close)
@@ -27,7 +27,7 @@ The system uses a light sensor and a servo motor to open or close the blinds aut
 
 ---
 
-## 🛠 Hardware Requirements
+##  Hardware Requirements
 
 | Component | Quantity | Notes |
 |----------|----------|-------|
@@ -41,7 +41,7 @@ The system uses a light sensor and a servo motor to open or close the blinds aut
 
 ---
 
-## 🔌 Wiring Overview
+##  Wiring Overview
 
 | Micro:bit Pin | Component |
 |---------------|-----------|
@@ -54,7 +54,7 @@ The system uses a light sensor and a servo motor to open or close the blinds aut
 
 ---
 
-## 🧠 Operating Logic
+##  Operating Logic
 
 ### OUT Mode (Button A)
 - Bright light → **Close blinds**  
@@ -68,7 +68,7 @@ Light thresholds can be adjusted depending on the environment.
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Open **Microsoft MakeCode** and create a new project  
 2. Switch to **JavaScript mode**  
 3. Paste your program code  
@@ -81,7 +81,7 @@ Light thresholds can be adjusted depending on the environment.
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 - Separate indoor/outdoor LDR sensors  
 - OLED display for real‑time values  
 - Wi‑Fi module (ESP8266/ESP32) for remote control  
@@ -91,7 +91,7 @@ Light thresholds can be adjusted depending on the environment.
 
 ---
 
-## 🐞 Troubleshooting
+##  Troubleshooting
 
 | Issue | Possible Cause | Solution |
 |-------|----------------|----------|
@@ -102,7 +102,7 @@ Light thresholds can be adjusted depending on the environment.
 
 ---
 
-## 📄 License
+##  License
 This project is released under a **custom attribution license**:
 
 You are free to **use, modify, and redistribute** this project for any purpose,  
