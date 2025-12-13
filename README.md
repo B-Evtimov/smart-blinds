@@ -1,4 +1,4 @@
-# 🪟 Smart Blinds Controller with Micro:bit
+#  Smart Blinds Controller with Micro:bit
 Automated blinds system controlled by the Micro:bit’s built‑in light sensor and user‑selected operating modes.
 
 ![Microbit](https://img.shields.io/badge/Micro%3Abit-v1%2Fv2-blue)
